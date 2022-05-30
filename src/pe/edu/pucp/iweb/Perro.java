@@ -1,7 +1,7 @@
 package pe.edu.pucp.iweb;
 
 public class Perro extends Animal{
-    private String modeloCorrea;
+    private String modeloCorrea = "perro pituco";
 
     public String getModeloCorrea() {
         return modeloCorrea;
